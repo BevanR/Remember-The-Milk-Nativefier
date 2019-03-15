@@ -1,0 +1,15 @@
+[
+  {
+    "key": "CmdOrCtrl+Shift+Space",
+    "inputEvents": [
+      {
+        "type": "keyDown",
+        "keyCode": "T"
+      },
+      {
+        "type": "keyUp",
+        "keyCode": "T"
+      }
+    ]
+  }
+]
